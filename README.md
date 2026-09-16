@@ -26,7 +26,7 @@ version is fine).
 From the project folder, install dependencies:
 
 ```
-cd "D:\Users\jacqu\Downloads\projects claudio\IBM_simulation_exam_SVA"
+cd "{your_route/of_script}"
 npm install
 ```
 
